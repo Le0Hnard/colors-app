@@ -1,0 +1,8 @@
+.ColorBox {
+    width: 20%; /* to make 5 boxes horizontally */
+    height: 25%; /* to make 4 boxes vertically provided that the parent div has the height set */
+    margin: 0 auto;
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+}
